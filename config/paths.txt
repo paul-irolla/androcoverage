@@ -1,0 +1,2 @@
+adb:adb # path to adb program. Default is 'adb' (from repo or in system paths)
+ 
